@@ -20,5 +20,5 @@
  - `Data Definition Language (DDL)` : Statements that define the database structure `CREATE`, `ALTER`,`DROP`.
  - `Data Control Language (DCL)` : Used to controlling access to the data in the database. 
  - `Data Manipulation Language (DML)`: Statements that manipulate data 'SELECT`,`INSERT`,`UPDATE`, `DELETE`. 
- - 'Transaction Control Language (TCL)': Statements controlling the execution of the queries. (`Transaction is a group of SQL statements executed together as single unit).
+ - 'Transaction Control Language (TCL)': Statements controlling the execution of the queries. (`Transaction` is a group of SQL statements as a single unit).
   

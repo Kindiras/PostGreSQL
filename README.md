@@ -15,6 +15,10 @@
 #### `Structured Query Language (SQL)`:
  + is a programming language designed to manage data stored in a relational database management system (RDBMS). It is managed by the American National Standards Institute [ANSI]  (https://www.ansi.org/).
 
-#### `SQL is a hybrid of four types of languages in one`
+#### `SQL is a hybrid of different types of languages in one`
  - `Data Query Language (DQL)`: used to get information that is already stored there. 
+ - `Data Definition Language (DDL)` : Statements that define the database structure `CREATE`, `ALTER`,`DROP`.
+ - `Data Control Language (DCL)` : Used to controlling access to the data in the database. 
+ - `Data Manipulation Language (DML)`: Statements that manipulate data 'SELECT`,`INSERT`,`UPDATE`, `DELETE`. 
+ - 'Transaction Control Language (TCL)': Statements controlling the execution of the queries. (`Transaction is a group of SQL statements executed together as single unit).
   

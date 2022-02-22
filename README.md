@@ -12,8 +12,8 @@
      - A `row` is a single record in a table. 
 ### `Relational Database Management System (RDBMS)` 
  + it helps user to create and maintain a relational database => mySQL,Oracle, postgreSQL, etc.
-#### `SQL`:
-Structured Query Language is a programming language designed to manage data stored in relational databases. It is managed by American National Standards Institute [ANSI](https://www.ansi.org/).
+#### `Structured Query Language (SQL)`:
+ + is a programming language designed to manage data stored in relational databases. It is managed by American National Standards Institute [ANSI]  (https://www.ansi.org/).
 
 
 + SQL divided as follow:

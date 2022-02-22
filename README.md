@@ -3,7 +3,7 @@
 ## `Database Management System (DBMS)`
   - Special software program that helps users create and maintain a databse.
 ## Two types of Database  
-   - Relational Databases (`SQL`)    
+   - Relational Databases (`SQL`) => has rows and columns and unique key identifier in each row.    
    - Non-Relational (`noSQL`) => JSON, XML, etc.
 ### Relational Database:
 + it links data in one table to related data in another table. 

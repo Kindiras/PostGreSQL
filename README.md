@@ -1,6 +1,6 @@
 ## `Database`:
    - it is an organized collection of data. 
-## 'Database Management System (DBMS)'
+## `Database Management System (DBMS)`
   - Special software program that helps users create and maintain a databse.
 ## SQL:
 Structured Query Language is a programming language designed to manage data stored in relational databases. It is managed by American National Standards Institute [ANSI](https://www.ansi.org/).

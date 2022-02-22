@@ -15,6 +15,6 @@
 #### `Structured Query Language (SQL)`:
  + is a programming language designed to manage data stored in a relational database management system (RDBMS). It is managed by the American National Standards Institute [ANSI]  (https://www.ansi.org/).
 
-#### `SQL is a hybrid of four types of languages in one`:
+#### `SQL is a hybrid of four types of languages in one`
       + Data Query Language (DQL): used to get information that is already stored there. 
   

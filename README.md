@@ -1,5 +1,5 @@
 ## `Database`:
-   -it is an organized collection of data. 
+   - it is an organized collection of data. 
 ## 'Database Management System (DBMS)'
   - Special software program that helps users create and maintain a databse.
 ## SQL:

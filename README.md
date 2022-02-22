@@ -16,5 +16,5 @@
  + is a programming language designed to manage data stored in relational database management system (RDBMS). It is managed by American National Standards Institute [ANSI]  (https://www.ansi.org/).
 
 #### `SQL is hybride of four types of languages in one`:
-      - `Data Query Language (DQL)`: used to get information that is already stored there. 
+      + `Data Query Language (DQL)`: used to get information that is already stored there. 
   

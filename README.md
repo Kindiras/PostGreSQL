@@ -1,4 +1,4 @@
-# [SQLCHEATSHEET](SQL-cheat-sheat.pdf) 
+# SQL Cheat sheet [SQLCHEATSHEET](SQL-cheat-sheat.pdf) 
 
 # `Database`:
    - it is an organized collection of data. 

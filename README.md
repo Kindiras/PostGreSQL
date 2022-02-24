@@ -1,3 +1,5 @@
+#(SQLCHEATSHEET)[] 
+
 # `Database`:
    - it is an organized collection of data. 
 ## `Database Management System (DBMS)`

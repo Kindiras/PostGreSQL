@@ -1,5 +1,5 @@
 ## SQL Cheat sheet [SQLCHEATSHEET](SQL-cheat-sheet.pdf) from Sql tutorial [SQL](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf) 
-
+## SQL Notes from udemy: [Notes](SQLNotes.pdf)
 # `Database`:
    - it is an organized collection of data. 
 ## `Database Management System (DBMS)`

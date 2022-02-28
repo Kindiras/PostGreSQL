@@ -1,17 +1,17 @@
-#### INSTALLATION OF POSTGRESQL:
+#### `INSTALLATION OF POSTGRESQL`
 + Download [PostgreSQl](https://www.postgresql.org/)and follow the steps. 
 + Download [pgAdmin](https://www.pgadmin.org/)and follow the steps. 
 #### `SQL Cheat sheet` [SQLCHEATSHEET](SQL-cheat-sheet.pdf) from Sql tutorial [SQL](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf) and [cheatsheet](Screen+Shot+2016-04-17+at+12.22.49+PM.png) from udemy.
-#### SQL Notes from udemy: [Notes](SQLNotes.pdf)
-#### PostgreSQL-Sample-Database [Sample](PostgreSQL-Sample-Database.png)
+#### `SQL Notes from udemy`: [Notes](SQLNotes.pdf)
+#### `PostgreSQL-Sample-Database` [Sample](PostgreSQL-Sample-Database.png)
 #### `Database`:
    - it is an organized collection of data. 
 #### `Database Management System (DBMS)`
   - Special software program that helps users create and maintain a database.
-#### Two types of Database  
+#### `Two types of Database`  
    - Relational Databases (`SQL`) => has rows and columns and a unique key identifier in each row.    
    - Non-Relational (`noSQL`) => JSON, XML, etc.
-### Relational Database:
+### `Relational Database:`
 + it links data in one table to related data in another table. 
      - A `table` is a collection of data organized into rows and columns.
      - A `column` is property of a data table which stores and contains name or label or data type. 

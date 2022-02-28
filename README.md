@@ -1,3 +1,6 @@
+## INSTALLATION OF POSTGRESQL:
++ Download [PostgreSQl](https://www.postgresql.org/)and follow the steps. 
++ Download [pgAdmin](https://www.pgadmin.org/)and follow the steps. 
 ## SQL Cheat sheet [SQLCHEATSHEET](SQL-cheat-sheet.pdf) from Sql tutorial [SQL](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf) and [cheatsheet](Screen+Shot+2016-04-17+at+12.22.49+PM.png) from udemy.
 ## SQL Notes from udemy: [Notes](SQLNotes.pdf)
 ## PostgreSQL-Sample-Database [Sample](PostgreSQL-Sample-Database.png)

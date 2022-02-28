@@ -29,3 +29,22 @@
  - `Transaction Control Language (TCL)`: Statements controlling the execution of the queries. (`Transaction` is a group of SQL statements as a single unit).
 #### `Queries`
  + A query is a set of instructions given to the RDBMS.
+
+#### `Column Datatype`:
+  - `VARCHAR' text data of variable length which can hold any type of character data.
+  - `INTEGER` 32-bit signed whole number
+  - `SMALLINT`16-bit signed whole number
+  - `NUMBER(n,d)` decimal numbers with significant figure 
+  - `FLOAT` floating point numbers
+  - `DATE` a day/month/year
+  - `TIMESTAMP` combination of date and time 
+  
+ #### `TABLE CONSTRAINT` :
+   + six commond constraints!
+    - `PRIMARY KEY` a column whose values is uniquely identify each row
+    - `COMPOSITE KEY` two or more columns acting together as a primary key
+    - `FOREIGN KEY` a column in one table that references a column in another table
+    - `UNIQUE KEY` a column whose values must be unique in each row
+    - `NOT NULL` the column must have a value in each row
+    - `CHECK` the column values must meet some criteria
+   #### `JOINS`

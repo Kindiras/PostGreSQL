@@ -40,7 +40,7 @@
   - `TIMESTAMP` combination of date and time 
   
  #### `TABLE CONSTRAINT` :
-    + six commond constraints!
+    ###### six commond constraints!
     - `PRIMARY KEY` a column whose values is uniquely identify each row
     - `COMPOSITE KEY` two or more columns acting together as a primary key
     - `FOREIGN KEY` a column in one table that references a column in another table

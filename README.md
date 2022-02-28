@@ -31,7 +31,7 @@
  + A query is a set of instructions given to the RDBMS.
 
 #### `Column Datatype`:
-  - `VARCHAR' text data of variable length which can hold any type of character data.
+  - `VARCHAR` text data of variable length which can hold any type of character data.
   - `INTEGER` 32-bit signed whole number
   - `SMALLINT`16-bit signed whole number
   - `NUMBER(n,d)` decimal numbers with significant figure 

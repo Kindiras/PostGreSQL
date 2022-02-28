@@ -1,0 +1,1 @@
+SELECT first_name,last_name FROM actor; -- SELECT is used to select the table * is used to select all columns from a table

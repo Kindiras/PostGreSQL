@@ -49,3 +49,6 @@
    - `CHECK` the column values must meet some criteria
   
   #### `JOINS`
+
+#### `COMMAND in SQL`:
+  - `SELECT`

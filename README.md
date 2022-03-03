@@ -53,4 +53,4 @@
 #### `COMMAND in SQL`:
 ```diff
   - `SELECT`
-  ```
+```

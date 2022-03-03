@@ -66,11 +66,11 @@
 ```diff
 +     SELECT COUNT(DISTINCT(column name)) 
 ```
-  + [SELECT COUNT(DISTINCT(column name))]-> how many distinct values in column
-+ text in green
-```
+  + [SELECT COUNT(DISTINCT(column name))]()-> how many distinct values in column
+
+```diff
 
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-
+```

@@ -66,7 +66,7 @@
 ```diff
 +     SELECT COUNT(DISTINCT(column name)) 
 ```
-  + [SELECT COUNT(DISTINCT(column name))]()-> how many distinct values in column
+  + [SELECT COUNT(DISTINCT(column name))](SelectCountDistinct.sql)-> how many distinct values in column
 
 ```diff
 

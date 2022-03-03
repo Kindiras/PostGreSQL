@@ -62,9 +62,12 @@
 ```diff
 +   SELECT COUNT
 ```
-
+  + [SELECT COUNT](SelectCount.sql) -> To count how many rows in a column. Use `()` for column. 
+```diff
++     SELECT COUNT(DISTINCT(column name)) -> how many distinct values in column
 + text in green
 ```
+
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@

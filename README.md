@@ -58,7 +58,7 @@
 ```diff
 - SELECT DISTINCT
 ```
-  + [SELECT DISTINCT](SelectDistinct.sql)-> used to figure out how many distinct values are in column. Example shows how many distinct rates. 
+  + [SELECT DISTINCT](SelectDistinct.sql)-> used to figure out how many distinct values are in column. Example shows how many distinct rates. Use `()` for column. 
 + text in green
 ```
 ! text in orange

@@ -52,14 +52,13 @@
 
 #### `COMMAND in SQL`:
 ###### `SELECT`:
-```diff
 + [SELECT](select.sql) is used to select the table & * is used to select all columns from a table
 + [SELECT DISTINCT](SelectDistinct.sql)-> used to figure out how many distinct values are in column. Example shows how many distinct rates. Use `()` for column. 
 + [SELECT COUNT](SelectCount.sql) -> To count how many rows in a column. Use `()` for column. 
 + [SELECT COUNT(DISTINCT(column name))](SelectCountDistinct.sql)-> how many distinct values in column
-```
 ```diff
-
++ green
+- red
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@

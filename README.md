@@ -52,7 +52,7 @@
 
 #### `COMMAND in SQL`:
 ```diff
-- `SELECT`
+- [SELECT](select.sql)
 + text in green
 ! text in orange
 # text in gray

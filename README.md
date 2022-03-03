@@ -55,7 +55,7 @@
   + [`SELECT DISTINCT`](SelectDistinct.sql)-> used to figure out how many distinct values are in column. Use `()` for column. 
   + [`SELECT COUNT`](SelectCount.sql) -> To count how many rows in a column. Use `()` for column. 
   + [`SELECT COUNT(DISTINCT(column name))`](SelectCountDistinct.sql)-> how many distinct values in column
-  + [`SELECT WHERE`]() -> appears immediately after `FROM` clause of SELECT statement and conditions are used
+  + [`SELECT WHERE`](SelectWhere.sql) -> appears immediately after `FROM` clause of SELECT statement and conditions are used
 ```diff
 + green
 - red

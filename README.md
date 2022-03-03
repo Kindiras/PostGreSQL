@@ -55,7 +55,9 @@
 -SELECT 
 ``` 
 [SELECT](select.sql) is used to select the table & * is used to select all columns from a table
+```diff
 + text in green
+```
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@

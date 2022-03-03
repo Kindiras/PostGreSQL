@@ -51,4 +51,6 @@
   #### `JOINS`
 
 #### `COMMAND in SQL`:
+```diff
   - `SELECT`
+  ```

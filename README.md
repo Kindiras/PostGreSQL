@@ -56,6 +56,9 @@
 ```
   + [SELECT](select.sql) is used to select the table & * is used to select all columns from a table
 ```diff
+- SELECT DISTINCT
+```
+  + [SELECT DISTINCT](SelectDistinct.sql)-> used to figure out how many distinct values are in column. Example shows how many distinct rates. 
 + text in green
 ```
 ! text in orange

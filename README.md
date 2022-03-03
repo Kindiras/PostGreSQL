@@ -52,9 +52,9 @@
 
 #### `COMMAND in SQL`:
 ```diff
-- [SELECT] 
+- SELECT 
 ``` 
-[SELECT](select.sql) is used to select the table * is used to select all columns from a table
+[SELECT](select.sql) is used to select the table & * is used to select all columns from a table
 + text in green
 ! text in orange
 # text in gray

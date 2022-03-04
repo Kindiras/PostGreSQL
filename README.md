@@ -83,7 +83,9 @@
  ```diff
  ! Syntax:
  ```
-   + value IN (option1, optio2,...,option_n)
+   + value `IN` (option1, optio2,...,option_n)
+   + `SELECT` color `FROM` able `WHERE` color `IN` ('red','blue')
+   + `SELECT` color `FROM` able `WHERE` color `NOT' `IN` ('red','blue')
 ```diff
 + green
 - red

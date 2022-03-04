@@ -64,6 +64,7 @@
  ```
    +   `SELECT` column_1,Column_2 `FROM` table `ORDER BY` column_1 `ASC/DESC`
    +   [ORDER BY](OrderBy.sql) comes towards the end of the query.
+  
 `LIMIT`: It allows to limit the number of rows returned for a query. It goes at the very end of query request.
 ```diff
 + green

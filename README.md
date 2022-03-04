@@ -96,6 +96,9 @@
 -  All names end with an 'a' => `WHERE` name `LIKE` '%a'
 ```
    + `_` => Matches any single character
+```diff
+- `WHERE value `LIKE` 'Version#__' etc for Version#B7 
+```
 
 ```diff
 + green

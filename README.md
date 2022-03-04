@@ -102,7 +102,7 @@
 `GROUP BY`: It allows us to aggregate the data. 
 ###### COMMON Aggregate Function: The call happens only in `SELECT` clause or the `HAVING` clause
 ```diff
-+ AVG()
++ AVG() -> Use ROUND() for specify precision after the decimal
 + COUNT()
 + MAX()
 + MIN()

@@ -58,7 +58,10 @@
   + [`SELECT WHERE`](SelectWhere.sql) -> appears immediately after `FROM` clause of SELECT statement and conditions are used
 
 `ORDER BY`: It is used to sort rows based on a column value, in either ascending or desscending order
-  Syntax:
+ 
+ ```diff
+ ! Syntax:
+ ```
    +   `SELECT` column_1,Column_2 `FROM` table `ORDER BY` column_1 `ASC/DESC`
 ```diff
 + green

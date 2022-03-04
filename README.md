@@ -97,7 +97,7 @@
 ```
    + `_` => Matches any single character
 ```diff
-- `WHERE value `LIKE` 'Version#__' etc for Version#B7 
+- `WHERE` value `LIKE` 'Version#__' etc for Version#B7 
 ```
 
 ```diff

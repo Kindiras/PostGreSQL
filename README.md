@@ -59,7 +59,7 @@
 
 `ORDER BY`: It is used to sort rows based on a column value, in either ascending or desscending order
   Syntax:
-      SELECT column_1,Column_2 FROM table ORDER BY column_1 ASC/DESC
+   +   `SELECT` column_1,Column_2 `FROM` table `ORDER BY` column_1 `ASC/DESC`
 ```diff
 + green
 - red

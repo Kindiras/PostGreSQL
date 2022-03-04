@@ -100,7 +100,7 @@
 - `WHERE` value `LIKE` 'Version#__' etc for Version#B7 
 ```
 `GROUP BY`: It allows us to aggregate the data. 
-###### COMMON Aggregate Function:
+###### COMMON Aggregate Function: The call happens only in `SELECT` clause or the `HAVING` clause
 ```diff
 + AVG()
 + COUNT()

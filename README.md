@@ -83,7 +83,7 @@
  ```diff
  ! Syntax:
  ```
-   + value IN (option1, optio2, ....)
+   + value IN (option1, optio2,...,option_n)
 ```diff
 + green
 - red

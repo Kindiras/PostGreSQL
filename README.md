@@ -84,7 +84,7 @@
  ! Syntax:
  ```
    + value `IN` (option1, optio2,...,option_n)
-   + `SELECT` color `FROM` able `WHERE` color [`IN`](In.dql) ('red','blue')
+   + `SELECT` color `FROM` able `WHERE` color [`IN`](In.sql) ('red','blue')
    + `SELECT` color `FROM` able `WHERE` color `NOT' `IN` ('red','blue')
 ```diff
 + green

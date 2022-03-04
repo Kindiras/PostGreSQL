@@ -99,8 +99,7 @@
 ```diff
 - `WHERE` value `LIKE` 'Version#__' etc for Version#B7 
 ```
-`GROUP BY`: It allows us to aggregate the data. 
-###### COMMON Aggregate Function: The call happens only in `SELECT` clause or the `HAVING` clause
+###### [COMMON Aggregate Function](AgregateFunction.sql): The call happens only in `SELECT` clause or the `HAVING` clause
 ```diff
 + AVG() -> Use ROUND() for specify precision after the decimal
 + COUNT()
@@ -108,6 +107,9 @@
 + MIN()
 + SUM()
 ```
+
+`GROUP BY`: It allows us to aggregate the data. 
+
 
 
 ```diff

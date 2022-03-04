@@ -56,6 +56,7 @@
   + [`SELECT COUNT`](SelectCount.sql) -> To count how many rows in a column. Use `()` for column. 
   + [`SELECT COUNT(DISTINCT(column name))`](SelectCountDistinct.sql)-> how many distinct values in column
   + [`SELECT WHERE`](SelectWhere.sql) -> appears immediately after `FROM` clause of SELECT statement and conditions are used
+`ORDER BY`: It is used to sort rows based on a column value, in either ascending or desscending order.
 ```diff
 + green
 - red

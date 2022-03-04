@@ -73,7 +73,12 @@
 +     value >= low `AND` value <= high
 ```    
  + [`BETWEEN`](Between.sql) can be combined with `NOT` operator
-
+`IN`: Use to check multiple possible value option or use as IN operator
+ 
+ ```diff
+ ! Syntax:
+ ```
+  + value IN (option1, optio2, ....)
 ```diff
 +    value `NOT BETWEEN` low `AND` high
 @@   value <low `OR` value > high @@

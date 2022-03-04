@@ -88,7 +88,9 @@
    + `SELECT` color `FROM` able `WHERE` color `NOT' `IN` ('red','blue')
 
 `LIKE` & `ILIKE`: Like is case-sensetive and ILIKE is not. 
-
+   + This operator allow us to perform pattern matching against string data with use of wildcard character
+   -`%` => Matches any sequency of characters
+   + `_` => Matches any single character
 
 ```diff
 + green

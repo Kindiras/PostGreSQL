@@ -99,7 +99,7 @@
 ```diff
 - `WHERE` value `LIKE` 'Version#__' etc for Version#B7 
 ```
-
+`GROUP BY`: It allows us to aggregate the data. 
 ```diff
 + green
 - red

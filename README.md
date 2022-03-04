@@ -74,7 +74,7 @@
 ```    
    + `BETWEEN` can be combined with `NOT` operator
 ```diff
-  + value `NOT BETWEEN` low `AND` high
+     + value `NOT BETWEEN` low `AND` high
 ```
 ```diff
 + green

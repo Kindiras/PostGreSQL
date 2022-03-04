@@ -68,14 +68,17 @@
 [`LIMIT`](Limit.sql): It allows to limit the number of rows returned for a query. It goes at the very end of query request.
 
 `BETWEEN`: Used to match a value against a range of values.
+
 ```diff
      @@ value `BETWEEN` low `AND` high @@
     +  value >= low `AND` value <= high
 ```    
    + `BETWEEN` can be combined with `NOT` operator
+
 ```diff
      + value `NOT BETWEEN` low `AND` high
 ```
+
 ```diff
 + green
 - red

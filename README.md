@@ -76,6 +76,7 @@
 
 ```diff
 + value `NOT BETWEEN` low `AND` high
+@@ value <low `OR` value > high
 ```  
 
 ```diff

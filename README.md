@@ -86,6 +86,10 @@
    + value `IN` (option1, optio2,...,option_n)
    + `SELECT` color `FROM` able `WHERE` color [`IN`](In.sql) ('red','blue')
    + `SELECT` color `FROM` able `WHERE` color `NOT' `IN` ('red','blue')
+
+`LIKE` & `ILIKE`: Like is case-sensetive and ILIKE is not. 
+
+
 ```diff
 + green
 - red

@@ -72,7 +72,11 @@
 @@    value `BETWEEN` low `AND` high @@
 +     value >= low `AND` value <= high
 ```    
-  
+ + `BETWEEN` can be combined with `NOT` operator
+
+```diff
++ value `NOT BETWEEN` low `AND` high
+```  
 
 ```diff
 + green

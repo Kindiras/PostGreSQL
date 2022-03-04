@@ -69,8 +69,8 @@
 
 `BETWEEN`: Used to match a value against a range of values.
 ```diff
-@@ value `BETWEEN` low `AND` high
- + value >= low `AND` value <= high
+@@    value `BETWEEN` low `AND` high @@
++     value >= low `AND` value <= high
 ```    
   
 

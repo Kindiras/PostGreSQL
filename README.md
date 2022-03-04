@@ -100,6 +100,16 @@
 - `WHERE` value `LIKE` 'Version#__' etc for Version#B7 
 ```
 `GROUP BY`: It allows us to aggregate the data. 
+###### COMMON Aggregate Function:
+```diff
++ AVG()
++ COUNT()
++ MAX()
++ MIN()
++ SUM()
+```
+
+
 ```diff
 + green
 - red

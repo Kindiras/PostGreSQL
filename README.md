@@ -91,8 +91,10 @@
    + This operator allow us to perform pattern matching against string data with use of wildcard character
    
    + `%` => Matches any sequency of characters
-   -  All names begin with an 'A' => `WHERE` name `LIKE` 'A%'
-   -  All names end with an 'a' => `WHERE` name `LIKE` '%a'
+```diff
+-  All names begin with an 'A' => `WHERE` name `LIKE` 'A%'
+-  All names end with an 'a' => `WHERE` name `LIKE` '%a'
+```
    + `_` => Matches any single character
 
 ```diff

@@ -116,7 +116,7 @@
 ```diff
 - In the `SELECT statement, column must either have an aggregate function or be in the `GROUP BY` call
 ```
-  + [GROUP BY](GroupBy.sql) and [GROUPBYDATE](GroupByDate.sql)
+  + [GROUP BY](GroupBy.sql) and [GROUPBYDATE](GroupByDate.sql) could give more understanding
 
 
 

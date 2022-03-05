@@ -113,6 +113,9 @@
  # Syntax:
  ```
   + `SELECT category_col, AGG(data_col) `FROM` table `GROUP BY` category_col
+```diff
+- In the `SELECT statement, column must either have an aggregate function or be in the `GROUP BY` call
+```
 
 
 

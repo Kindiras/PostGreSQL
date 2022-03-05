@@ -109,6 +109,10 @@
 ```
 
 `GROUP BY`: It allows us to aggregate the data. It comes after `FROM` statement or right after `WHERE` statement
+ ```diff
+ # Syntax:
+ ```
+  + `SELECT category_col, AGG(data_col) `FROM` table `GROUP BY` category_col
 
 
 

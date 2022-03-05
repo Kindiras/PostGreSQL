@@ -108,7 +108,7 @@
 + SUM()
 ```
 
-#####`GROUP BY`: It allows us to aggregate the data. It comes after `FROM` statement or right after `WHERE` statement
+##### `GROUP BY`: It allows us to aggregate the data. It comes after `FROM` statement or right after `WHERE` statement
  ```diff
  # Syntax:
  ```

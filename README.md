@@ -121,10 +121,10 @@
 ##### `HAVING`: It allows us to filter after an aggregation has already taken place, we can't use `WHERE` to filter based off of aggregate result since it happens ater a `WHERE` is executed
 ```diff
  # Syntax:
-   + `SELECT` company, `SUM`(sales) `FROM` finance_table
-   + `WHERE company != 'Google'
-   + `GROUP BY` company
-   + `HAVING` `SUM`(sales) > 1000
++ `SELECT` company, `SUM`(sales) `FROM` finance_table
++ `WHERE company != 'Google'
++ `GROUP BY` company
++ `HAVING` `SUM`(sales) > 1000
 ```
 
 ```diff

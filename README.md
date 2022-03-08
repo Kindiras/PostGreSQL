@@ -118,7 +118,7 @@
 ```
   + [GROUP BY](GroupBy.sql) and [GROUPBYDATE](GroupByDate.sql) could give more understanding
 
-##### `HAVING`: It allows us to filter after an aggregation has already taken place, we can't use `WHERE` to filter based off of aggregate result since it happens ater a `WHERE` is executed
+##### [`HAVING`](Having.sql): It allows us to filter after an aggregation has already taken place, we can't use `WHERE` to filter based off of aggregate result since it happens ater a `WHERE` is executed
 ```diff
  # Syntax:
 + `SELECT` company, `SUM`(sales) `FROM` finance_table

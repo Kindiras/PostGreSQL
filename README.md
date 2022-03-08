@@ -125,7 +125,7 @@
    + `WHERE company != 'Google'
    + `GROUP BY` company
    + `HAVING` `SUM`(sales) > 1000
- ```
+```
 
 ```diff
 + green

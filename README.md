@@ -137,9 +137,9 @@
 #### `UNION`: it is used to combine the result-set of two or more SELECT statements, or it serves to directly concatenate two results together, essentially pasting               them together  
 ```diff
 +   Syntax:
-     `SELECT` column_names FROM table 1
-      `UNION`
-      SELECT column_names FROM table 2
++    `SELECT` column_names FROM table 1
++      `UNION`
++     SELECT column_names FROM table 2
 ```      
 
 ```diff

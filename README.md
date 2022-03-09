@@ -125,7 +125,9 @@
 + `HAVING` `SUM`(sales) > 1000
 ```
 
-#### `JOINS`
+#### `JOINS`: It is an operation that allows to combine multiple tables together 
+ + `INNER JOIN`:
+      
 
 
 ```diff

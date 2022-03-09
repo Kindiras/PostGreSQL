@@ -135,8 +135,8 @@
     It is the reverse of the order of table in `LEFT OUTER JOIN`
       
 #### `UNION`: it is used to combine the result-set of two or more SELECT statements, or it serves to directly concatenate two results together, essentially pasting               them together  
++ Syntax:
 ```diff
-+   Syntax:
 +    `SELECT` column_names FROM table 1
 +      `UNION`
 +     SELECT column_names FROM table 2

@@ -129,6 +129,9 @@
  + [`INNER JOIN`](InnerJoin.sql): It will return only records from both tables that match based on a condition![INNERJOIN](https://user-images.githubusercontent.com/42945839/157488347-3cf8fa90-3987-4619-9908-bf20d40a97bd.png)
  + [`FULL OUTER JOIN`](FullOuterJoin.sql): It returns the records from both the table 
    ![FULLOUTERJOIN](https://user-images.githubusercontent.com/42945839/157490842-5acd0566-fa08-402a-92da-77f8a197b665.png)
+ + [`LEFT OUTER JOIN`](LeftOuterJoin.sql): It returns the results from the first table and records from the second table that match on specific condition
+   ![LEFTOUTERJOIN](https://user-images.githubusercontent.com/42945839/157502051-8a320a6f-75ad-4874-b177-fd83e2dc3f69.png)
+
 
       
 

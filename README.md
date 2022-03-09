@@ -36,8 +36,10 @@
   - `SMALLINT`16-bit signed whole number
   - `NUMBER(n,d)` decimal numbers with significant figure 
   - `FLOAT` floating point numbers
+  - `TIME` contains only time
   - `DATE` a day/month/year
-  - `TIMESTAMP` combination of date and time 
+  - `TIMESTAMP` combination of date and time
+  - `TIMESTAMPTZ` contains date,time,and timezone 
   
  #### `TABLE CONSTRAINT` :
  ##### six common constraints

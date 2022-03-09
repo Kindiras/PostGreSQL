@@ -127,7 +127,8 @@
 
 #### `JOINS`: It is an operation that allows to combine multiple tables together 
  + [`INNER JOIN`](InnerJoin.sql): It will return only records from both tables that match based on a condition![INNERJOIN](https://user-images.githubusercontent.com/42945839/157488347-3cf8fa90-3987-4619-9908-bf20d40a97bd.png)
- + [`FULL OUTER JOIN`](FullOuterJoin.sql): It returns the records from both the table ![FULLOUTERJOIN](https://user-images.githubusercontent.com/42945839/157490842-5acd0566-fa08-402a-92da-77f8a197b665.png)
+ + [`FULL OUTER JOIN`](FullOuterJoin.sql): It returns the records from both the table 
+   ![FULLOUTERJOIN](https://user-images.githubusercontent.com/42945839/157490842-5acd0566-fa08-402a-92da-77f8a197b665.png)
 
       
 

@@ -126,7 +126,8 @@
 ```
 
 #### `JOINS`: It is an operation that allows to combine multiple tables together 
- + `INNER JOIN`:
+ + `INNER JOIN`: It will return only records from both tables that match based on a condition
+ + 
       
 
 

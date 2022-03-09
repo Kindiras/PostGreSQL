@@ -134,7 +134,13 @@
  + `RIGHT OUTER JOIN`: It returns the results of the second table and records from the first table only if they match records in the second based on a condtion
     It is the reverse of the order of table in `LEFT OUTER JOIN`
       
-
+#### `UNION`: it is used to combine the result-set of two or more SELECT statements, or it serves to directly concatenate two results together, essentially pasting               them together  
+```diff
++   Syntax:
+     `SELECT` column_names FROM table 1
+      `UNION`
+      SELECT column_names FROM table 2
+```      
 
 ```diff
 + green

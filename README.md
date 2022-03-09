@@ -126,8 +126,7 @@
 ```
 
 #### `JOINS`: It is an operation that allows to combine multiple tables together 
- + `INNER JOIN`:![INNERJOIN](https://user-images.githubusercontent.com/42945839/157488347-3cf8fa90-3987-4619-9908-bf20d40a97bd.png)
- It will return only records from both tables that match based on a condition
+ + `INNER JOIN`: It will return only records from both tables that match based on a condition![INNERJOIN](https://user-images.githubusercontent.com/42945839/157488347-3cf8fa90-3987-4619-9908-bf20d40a97bd.png)
  + 
       
 

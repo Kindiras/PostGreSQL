@@ -47,8 +47,6 @@
    - `UNIQUE KEY` a column whose values must be unique in each row
    - `NOT NULL` the column must have a value in each row
    - `CHECK` the column values must meet some criteria
-  
-  #### `JOINS`
 
 ##### `COMMANDS in SQL`:
 `SELECT`: [SELECT](select.sql) is used to select the table & * is used to select all columns from a table
@@ -126,6 +124,9 @@
 + `GROUP BY` company
 + `HAVING` `SUM`(sales) > 1000
 ```
+
+#### `JOINS`
+
 
 ```diff
 + green

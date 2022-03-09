@@ -131,8 +131,8 @@
    ![FULLOUTERJOIN](https://user-images.githubusercontent.com/42945839/157490842-5acd0566-fa08-402a-92da-77f8a197b665.png)
  + [`LEFT OUTER JOIN`](LeftOuterJoin.sql): It returns the results from the first table and records from the second table that match on specific condition
    ![LEFTOUTERJOIN](https://user-images.githubusercontent.com/42945839/157502051-8a320a6f-75ad-4874-b177-fd83e2dc3f69.png)
-
-
+ + `RIGHT OUTER JOIN`: It returns the results of the second table and records from the first table only if they match records in the second based on a condtion
+    It is the reverse of the order of table in `LEFT OUTER JOIN`
       
 
 

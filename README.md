@@ -148,6 +148,9 @@
  + AGE(): Calculates and returns the current age given a timestamp
  + Useage:
    - AGE(data_col)
+ + TO_CHAR(): General function to convert data types to text
+ + Useage:
+   - TO_CHAR(data_col,'mm-dd-yyyy')
 
 ```diff
 + green

@@ -52,6 +52,7 @@
    - `UNIQUE KEY` a column whose values must be unique in each row
    - `NOT NULL` the column must have a value in each row
    - `CHECK` the column values must meet some criteria
+   - `EXCLUSION` ensures that if any two rows are compared on the specified columns or expression using the specified operator
 
 ##### `COMMANDS in SQL`:
 `SELECT`: [SELECT](select.sql) is used to select the table & * is used to select all columns from a table

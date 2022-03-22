@@ -145,7 +145,7 @@
 ```      
 
 ###### Timestamp & Extract:
- + EXTRACT(): Allows to extract Year
+ + [EXTRACT()](Extract.sql): Allows to extract Year
    - YEAR
    - MONTH
    - DAY

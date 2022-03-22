@@ -172,7 +172,7 @@
    `CREATE TABLE` table_name(column_name TYPE column_constraints, column_name TYPE column_constraint,
             table_constraint table_constraint)`INHERITS` existing_table_name;
 ```
-
+  - See these [example1](createtable.sql),[example2](job.sql), and [example3](account_job.sql) together for better understanding
 
 
 

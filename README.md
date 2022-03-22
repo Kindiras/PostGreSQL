@@ -45,7 +45,7 @@
  ##### Consraints: These are the rules enforced on data columns on table which ensure the accuracy and reliablity of the data in the database
   + Columns Constraints => applied the constraints to a column to adhere certain conditions
   + Table Constraints => applied to the entire table rather than to an individual columns
- ##### six common constraints
+ ##### Most common constraints
    - `PRIMARY KEY` a column whose values is uniquely identify each row
    - `COMPOSITE KEY` two or more columns acting together as a primary key
    - `FOREIGN KEY` a column in one table that references a column in another table

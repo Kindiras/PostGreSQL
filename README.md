@@ -144,6 +144,11 @@
 +     SELECT column_names FROM table 2
 ```      
 
+###### Timestamp:
+ + AGE(): Calculates and returns the current age given a timestamp
+ + Useage:
+   - AGE(data_col)
+
 ```diff
 + green
 - red

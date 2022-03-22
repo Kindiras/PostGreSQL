@@ -157,7 +157,7 @@
    - AGE(data_col)
  + TO_CHAR(): General function to convert data types to text
  + Useage:
-   - TO_CHAR(data_col,'mm-dd-yyyy')
+   - TO_CHAR(data_col,'mm-dd-yyyy'), click [here](https://www.postgresql.org/docs/12/functions-formatting.html) for format
 
 
 ```diff

@@ -166,7 +166,7 @@
 
 ###### MathOperation in SQl [example](Mathoperation.sql)
 ### Creating table in SQL:
-#####'CREATE':
+`CREATE`:
 ```diff
 + Syntax
    `CREATE TABLE` table_name(column_name TYPE column_constraints, column_name TYPE column_constraint,

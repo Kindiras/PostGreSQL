@@ -165,6 +165,16 @@
    - TO_CHAR(data_col,'mm-dd-yyyy'), click [here](https://www.postgresql.org/docs/12/functions-formatting.html) for format
 
 ###### MathOperation in SQl [example](Mathoperation.sql)
+### Creating table in SQL:
+##### 'CREATE':
+```diff
++ Syntax
++      CREATE TABLE table_name(column_name TYPE column_constraints, column_name TYPE column_constraint, table_constraint table_constraint)INHERITS existing_table_name;
+```
+
+
+
+
 ```diff
 + green
 - red

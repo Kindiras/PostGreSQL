@@ -155,11 +155,11 @@
  + AGE(): Calculates and returns the current age given a timestamp
  + Useage:
    - AGE(data_col)
- + TO_CHAR(): General function to convert data types to text
+ + [TO_CHAR()](AgeTo_char.sql): General function to convert data types to text
  + Useage:
    - TO_CHAR(data_col,'mm-dd-yyyy'), click [here](https://www.postgresql.org/docs/12/functions-formatting.html) for format
 
-
+###### MathOperation in SQl [example](Mathoperation.sql)
 ```diff
 + green
 - red

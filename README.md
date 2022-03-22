@@ -42,6 +42,7 @@
   - `TIMESTAMPTZ` contains date,time,and timezone 
   
  #### `TABLE CONSTRAINT` :
+ ##### Consraints: These are the rules enforced on data columns on table which ensure the accuracy and reliablity of the data in the database
  ##### six common constraints
    - `PRIMARY KEY` a column whose values is uniquely identify each row
    - `COMPOSITE KEY` two or more columns acting together as a primary key

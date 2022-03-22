@@ -174,10 +174,10 @@
 ```
   - See these [example1](createtable.sql),[example2](job.sql), and [example3](account_job.sql) together for better understanding
 
-`INDERT`:
+`INSERT`:
 ```diff
 + Syntax
-   `INSERT INTO` table(column1,column2,column3,)
+   `INSERT INTO` table(column1,column2,column3,...)
     `SELECT` column1,column1,.... FROM another_table
     `WHERE` condition;
 ```

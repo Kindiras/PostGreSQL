@@ -144,7 +144,14 @@
 +     SELECT column_names FROM table 2
 ```      
 
-###### Timestamp:
+###### Timestamp & Extract:
+ + EXTRACT(): Allows to extract Year
+   - YEAR
+   - MONTH
+   - DAY
+   - WEEK
+   - QUARTER
+  
  + AGE(): Calculates and returns the current age given a timestamp
  + Useage:
    - AGE(data_col)

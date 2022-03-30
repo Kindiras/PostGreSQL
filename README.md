@@ -186,6 +186,7 @@
     `SELECT` column1,column1,.... FROM another_table
     `WHERE` condition;
 ```
+ - See these example [example1](Insert.sql), [example2](Insert2.sql)
 
 ```diff
 + green

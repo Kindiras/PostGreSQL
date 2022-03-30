@@ -174,9 +174,14 @@
 ```
   - See these [example1](createtable.sql),[example2](job.sql), and [example3](account_job.sql) together for better understanding
 
-`INSERT`:
+`INSERT`: Allows to add in rows to a table
 ```diff
 + Syntax
+   `INSERT INTO` table(column1,column2,column3,...)
+   `VALUES`
+   (value1, value2,value3,...)
+   (value1,value2,value3,...)
+   => Inserting from another table
    `INSERT INTO` table(column1,column2,column3,...)
     `SELECT` column1,column1,.... FROM another_table
     `WHERE` condition;

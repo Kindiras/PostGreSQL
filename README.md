@@ -206,6 +206,7 @@ SET column1 = value1,
 ! Syntax
 ! ALTER TABLE table_name action
 ```
+Example [ALTER](Alter.sql) & [Drop](Drop.sql)
 ```diff
 + green
 - red

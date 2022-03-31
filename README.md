@@ -188,6 +188,16 @@
 ```
  - See these example [example1](Insert.sql), [example2](Insert2.sql)
 
+`UPDATE`: Allows for changing of values of the columns in a table
+```diff
++ Syntax
++ UPDATE table
+SET column1 = value1,
+    column2 = value2,...
+    WHERE
+    conditon;
+```
+
 ```diff
 + green
 - red

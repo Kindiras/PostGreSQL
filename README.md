@@ -208,11 +208,12 @@ SET column1 = value1,
 ```
 Example [ALTER](Alter.sql) & [Drop](Drop.sql)
 
-# `CHECK' : 
-Syntax:
-CREATE TABLE example(ex_id SERIAL PRIMARY KEY, age SMALLINT CHECK (age > 21), parent_age SMALLINT CHECK (parent_age > age)
-);
-
+###### `CHECK' : 
+```diff
++ Syntax:
++ CREATE TABLE example(ex_id SERIAL PRIMARY KEY, age SMALLINT CHECK (age > 21), parent_age SMALLINT CHECK (parent_age > age)
++ );
+```
 ```diff
 + green
 - red

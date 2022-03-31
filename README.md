@@ -201,7 +201,7 @@ SET column1 = value1,
 
 `DELETE': [Example](Delete.sql)
 
-
+`ALTER`: allows for adding, dropping, or renaming columns, changing a column's data type, set `DEFAULT` values for a column,rename table, add `CHECK` constraints
 
 ```diff
 + green

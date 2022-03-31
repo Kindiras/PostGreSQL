@@ -198,6 +198,7 @@ SET column1 = value1,
     conditon;
 ```
 - [Exampel](Update.sql) and [example2](Update1.sql)
+
 `DELETE': [Example](Delete.sql)
 
 
